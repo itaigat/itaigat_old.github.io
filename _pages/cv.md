@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc in Data Science and Engineering, Technion, (2016 - 2019)
 * Ph.D. in Deep Learning, Technion, 2022 (expected)
+* BSc in Data Science and Engineering, Technion, (2016 - 2019)
 
 Work experience
 ======
@@ -29,9 +29,12 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Deep Learning
+* Statistical Machine Learning
+* Machine Learning in Portfolio Selection
+* Distributed Data Management
+* Data Gathering and Management
+* Human Factors in Data Science
 
 Awards
 ======
