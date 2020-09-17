@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D. in Deep Learning, Technion, 2022 (expected)
-* BSc in Data Science and Engineering, Technion, (2016 - 2019)
+* BSc in Data Science and Engineering, Technion, 2016 - 2019
 
 Work experience
 ======
-* Ellipsis - Senior Software Engineer (2016 - 2019)
-* Unit 8200 - Israeli Inteligence Corps
-  * Team Leader (2014 - 2016)
-  * Software Engineer (2012 - 2014)
+* Ellipsis - Senior Software Engineer, 2016 - 2019
+* Unit 8200 - Israeli Inteligence Corps, 2012 - 2016
+  * Team Leader, 2014 - 2016
+  * Software Engineer, 2012 - 2014
 
 Publications
 ======
@@ -39,12 +39,12 @@ Teaching - Head TA
 Awards
 ======
 * President's Award for Excellence and Distinction in bachelor's degree
-* [1st Place Winner, General Electric Minds & Machines Hackathon](http://www.geektime.co.il/ge-hackathon-israel/)
-* Received the highest award within the unit (8200) for an exceptional team leading in 2016
-* Received the highest award within the unit (8200) for an exceptional project in 2015
-* Received a tech acknowledge of excellence from “People and Computers” for work on an outstanding project in 2014
+* [1st Place Winner, General Electric Minds & Machines Hackathon](http://www.geektime.co.il/ge-hackathon-israel/), 2017
+* Received the highest award within the unit (8200) for an exceptional team leading, 2016
+* Received the highest award within the unit (8200) for an exceptional project, 2015
+* Received a tech acknowledge of excellence from “People and Computers” for work on an outstanding project, 2014
 
 Service and leadership
 ======
-* Coordinator of the Computational Data Science Seminar at the Technion.
-* Tutor refugees kids in elementary school.
+* Coordinator of the Computational Data Science Seminar at the Technion, 2019 - present
+* Tutor refugees kids in elementary school, 2012-2015
