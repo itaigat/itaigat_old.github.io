@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Data Science and Engineering, Technion, (2016 - 2019)
+* Ph.D. in Deep Learning, Technion, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ellipsis - Senior Software Engineer (2016 - 2019)
+* Unit 8200 - Israeli Inteligence Corps
+  * Team Leader (2014 - 2016)
+  * Software Engineer (2012 - 2014)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+* President's Award for Excellence and Distinction in bachelor's degree
+* [1st Place Winner, General Electric Minds & Machines Hackathon](http://www.geektime.co.il/ge-hackathon-israel/)
+* Received the highest award within the unit (8200) for an exceptional team leading in 2016
+* Received the highest award within the unit (8200) for an exceptional project in 2015
+* Received a tech acknowledge of excellence from “People and Computers” for work on an outstanding project in 2014
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Tutor refugees kids in science major

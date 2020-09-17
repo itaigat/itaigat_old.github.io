@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Venelia: Online Learning and Prediction of Vessel Destination"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'TODO: abstract here'
+date: 2018-10-01
+venue: 'DEBS'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3210284.3220505'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+The ACM DEBS 2018 Grand Challenge focuses on (soft) real-time prediction of both the destination port and the time of arrival of vessels, monitored through the Automated Identification System (AIS). Venilia prediction mechanism is based on a variety of machine learning techniques, including Markov predictive models. To improve the accuracy of a model, trained off-line on historical data, Venilia supports also on-line continuous training using an incoming event stream. The software architecture enables a low latency, highly parallelized, and load balanced prediction pipeline. Aiming at a portable and reusable solution, Venilia is implemented on top of the Akka Actor framework. Finally, Venilia is also equipped with a visualization tool for data exploration.
