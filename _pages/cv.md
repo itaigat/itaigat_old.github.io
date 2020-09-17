@@ -27,7 +27,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching
+Teaching - Head TA
 ======
 * Deep Learning
 * Statistical Machine Learning
@@ -46,4 +46,5 @@ Awards
 
 Service and leadership
 ======
-* Tutor refugees kids in science major
+* Coordinator of the Computational Data Science Seminar at the Technion.
+* Tutor refugees kids in elementary school.
