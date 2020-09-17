@@ -3,7 +3,7 @@ title: "Removing Bias in Multi-modal Classifiers: Regularization by Maximizing F
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2020
+date: 2020-10-01
 venue: 'ON SUBMISSION'
 paperurl: ''
 citation: ''
