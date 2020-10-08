@@ -3,9 +3,9 @@ title: "Removing Bias in Multi-modal Classifiers: Regularization by Maximizing F
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2020-10-01
-venue: 'ON SUBMISSION'
+date: 2020-12-12
+venue: 'NeurIPS 2020'
 paperurl: ''
 citation: ''
 ---
-TODO: add abstract here
+Many recent datasets contain a variety of different data modalities, for instance, image, question, and answer data in visual question answering (VQA). When training deep net classifiers on those multi-modal datasets, the modalities get exploited at different scales, i.e., some modalities can more easily contribute to the classification results than others. This is suboptimal because the classifier is inherently biased towards a subset of the modalities. To alleviate this shortcoming, we propose a novel regularization term based on the functional entropy. Intuitively, this term encourages to balance the contribution of each modality to the classification result. However, regularization with the functional entropy is challenging. To address this, we develop a method based on the log-Sobolev inequality, which bounds the functional entropy with the functional-Fisher-information. Intuitively, this maximizes the amount of information that the modalities contribute. On the two challenging multi-modal datasets VQA-CPv2, and SocialIQ, we obtain state-of-the-art results while more uniformly exploiting the modalities. In addition, we demonstrate the efficacy of our method on Colored MNIST.
