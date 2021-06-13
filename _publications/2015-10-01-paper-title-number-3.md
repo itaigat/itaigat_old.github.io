@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2020-12-12
-venue: 'NeurIPS 2020'
+venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2010.10802'
 citation: ''
 ---
