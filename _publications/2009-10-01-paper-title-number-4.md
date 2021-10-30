@@ -1,5 +1,5 @@
 ---
-title: "(Oral) Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions"
+title: "[Oral] Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: ''
