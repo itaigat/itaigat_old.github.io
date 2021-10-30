@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-5
 excerpt: ''
 date: 2022-12-01
-venue: 'NeurIPS 2021'
+venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2110.14375'
 citation: ''
 ---
